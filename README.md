@@ -29,6 +29,6 @@ A simple blogger made using sqlite
  * regexp
   * Jason Lu, Fawn Wong
   * 5/regexp/jason_fawn
-* intro-proj1
+ * intro-proj1
   * Jason Lu, Dionis Wang
   * 5/inro-proj1/dionis_jasonlu
