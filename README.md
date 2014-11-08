@@ -22,15 +22,13 @@ A simple blogger made using sqlite
 #### <a href="https://github.com/jasonluX13/hairy-dubstep-blog">Hairy Dubstep Blog</a>
 
 ## Mini Projects
- * intro-proj1
-  * Jason Lu, Dionis Wang
-  * 5/inro-proj1/dionis_jasonlu
+ 
  * login
   * Jason Lu, Nathaniel Brassell
   * 5/login/jason_nathaniel
  * regexp
   * Jason Lu, Fawn Wong
   * 5/regexp/jason_fawn
- * intro-proj 1
-  * Mike Zamansky, Partner name 
-  * 6/intro-proj1/foldernae
+* intro-proj1
+  * Jason Lu, Dionis Wang
+  * 5/inro-proj1/dionis_jasonlu
