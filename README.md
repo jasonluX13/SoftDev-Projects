@@ -6,7 +6,7 @@ Period 5
 ## Main Projects
 
 ### Language Interpreter/Data Scraping
-#### Team members: Jerry Dai Jason Lu Adriel Mendoza Dionis Wang
+#### Team members: Jerry Dai,Jason Lu, Adriel Mendoza, Dionis Wang
 #### Description
 Question-Interpreter using Google API in Python
 Interprets "who" and "when" type questions
@@ -18,7 +18,7 @@ and diplays top five most frequent results according to our name and date findin
 ### Blogging Engine (SQL)
 #### Team members: Jason Lu, Chesley Tan, Elise Zlotnikova, Sappha O'Meara
 #### Description
-A simple blogger
+A simple blogger made using sqlite
 #### <a href="https://github.com/jasonluX13/hairy-dubstep-blog">Hairy Dubstep Blog</a>
 
 ## Mini Projects
