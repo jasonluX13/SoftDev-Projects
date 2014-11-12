@@ -32,3 +32,6 @@ A simple blogger made using sqlite
  * intro-proj1
   * Jason Lu, Dionis Wang
   * 5/inro-proj1/dionis_jasonlu
+ * API Project
+  * Jason Lu, Nathaniel Brassell 
+  * <a href="https://github.com/jasonluX13/north-american-happiness">Project Link </a>
