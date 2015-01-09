@@ -5,6 +5,12 @@ Period 5
 
 ## Main Projects
 
+### Final Project
+#### Team memebers Jason Lu, Nathaniel Brassell, Vanessa Yan, Jessica Ng
+#### Description 
+An assassin game using GPS
+#### <a href="https://github.com/Softdev-project/Assassin">Assassin</a>
+
 ### Language Interpreter/Data Scraping
 #### Team members: Jerry Dai,Jason Lu, Adriel Mendoza, Dionis Wang
 #### Description
