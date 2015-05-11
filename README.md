@@ -41,3 +41,11 @@ A simple blogger made using sqlite
  * API Project
   * Jason Lu, Nathaniel Brassell 
   * <a href="https://github.com/jasonluX13/north-american-happiness">Project Link </a>
+ 
+#Spring Semester
+##Main Projects
+###Final Project
+#### Team memebers Jason Lu, Barak Zhou, Albert Yeung
+#### Description 
+An online multiplayer version of BugHouse chess
+#### <a href="https://github.com/zhoubw/Bughouse_Chess">Assassin</a>
