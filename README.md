@@ -48,4 +48,4 @@ A simple blogger made using sqlite
 #### Team memebers Jason Lu, Barak Zhou, Albert Yeung
 #### Description 
 An online multiplayer version of BugHouse chess
-#### <a href="https://github.com/zhoubw/Bughouse_Chess">Assassin</a>
+#### <a href="https://github.com/zhoubw/Bughouse_Chess">BugHouse</a>
